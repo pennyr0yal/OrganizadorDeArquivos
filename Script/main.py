@@ -10,7 +10,7 @@ import re
 import shutil
 # ===================== CAMINHOS
 PASTA_TESTES = os.path.join(os.getcwd(),'Teste')
-PASTA = os.path.join(PASTA_TESTES,'Mover aqui')    # Pode ser modificado para a pasta onde os arquivos são salvos originalmente
+PASTA = os.path.join(PASTA_TESTES,'Mover_aqui')    # Pode ser modificado para a pasta onde os arquivos são salvos originalmente
 PASTA_DESTINO = os.path.join(PASTA_TESTES,'Faturas Recebidas')
 
 REFERENCIA_EMPRESA = 'Empresa'    # Texto que sinaliza no PDF o nome da empresa que queremos extrair
