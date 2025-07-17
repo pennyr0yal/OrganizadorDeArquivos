@@ -2,6 +2,8 @@
 
 O programa monitora automaticamente uma pasta por arquivos `.pdf` (no exemplo, faturas de empresas diversas). Ao detectar um novo arquivo, extrai informações como empresa emissora e data de emissão, renomeia o arquivo no formato <Empresa>_<AAAA-MM-DD>.pdf e o organiza em subpastas por ano e mês.
 
+---
+
 ## Funcionalidades
 
 - Monitora uma pasta continuamente enquanto o programa está ativo, utilizando a biblioteca watchdog.
