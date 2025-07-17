@@ -12,8 +12,8 @@ O programa monitora automaticamente uma pasta por arquivos `.pdf` (no exemplo, f
 
 ## Como usar
 
-1. Execute o arquivo .bat na pasta principal.
-2. Na pasta Teste, há 6 arquivos fictícios de 3 empresas diferentes. Mova eles para a pasta "Mover aqui".
+1. Execute o arquivo .bat na pasta principal. O programa instalará o venv, as bibliotecas necessárias e exibirá uma mensagem: "Monitorando pasta...".
+2. Na pasta Teste, há 6 arquivos fictícios de 3 empresas diferentes. Mova eles para a pasta "Mover_aqui".
 3. O programa automaticamente criará as pastas e distribuirá os documentos renomeados.
 
 ## Observações
